@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/mini-movie-app/static/css/main.89a4d0da.css",
+    "main.js": "/mini-movie-app/static/js/main.a1b33285.js",
+    "static/js/787.95dd9ee7.chunk.js": "/mini-movie-app/static/js/787.95dd9ee7.chunk.js",
+    "index.html": "/mini-movie-app/index.html",
+    "main.89a4d0da.css.map": "/mini-movie-app/static/css/main.89a4d0da.css.map",
+    "main.a1b33285.js.map": "/mini-movie-app/static/js/main.a1b33285.js.map",
+    "787.95dd9ee7.chunk.js.map": "/mini-movie-app/static/js/787.95dd9ee7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.89a4d0da.css",
+    "static/js/main.a1b33285.js"
+  ]
+}
